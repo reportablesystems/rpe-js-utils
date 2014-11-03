@@ -22,6 +22,6 @@ Number(27).toRomanUpperCase();    // => "XXVII"
 Number(27).toRomanLowerCase();    // => "xxvii"
 
 Number(28).toBijectiveBase26();   // => "AB"
-Number(28).toBijectiveBase26();   // => "XXVIII"
-Number(28).toBijectiveBase26();   // => "xxviii"
+Number(28).toRomanUpperCase();   // => "XXVIII"
+Number(28).toRomanLowerCase();   // => "xxviii"
 ```
